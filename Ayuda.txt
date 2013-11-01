@@ -1,0 +1,23 @@
+Ayuda para Telekoscorron 1.0.
+
+El procedimiento de utilizacion del programa es sencillo:
+
+1-. Presione la tecla de BLOQUEO DE MAYUSCULAS.
+2-. Acompagne todas las instrucciones con la tecla RETURN o INTRO, 
+incluso	aquellas que le indican que preione una tecla para continuar.
+3-. Para acceder a los menus solo ha de teclear la inicial que 
+acompagna al titulo del menu seguido de INTRO o RETURN.
+4-. En el primer menu se le da a elegir entre RESERVAS(cuerpo del pro-
+grama), AYUDA(este fichero) y SALIR DEL PROGRAMA.
+5-.En el segundo menu se le ofrece una detallada lista de las funciones 
+que realiza Telekoscorron 1.0, desde realizar una nueva reserva hasta 
+eliminar una reserva, pasando por las mas variadas acciones.
+6-. Se ofrece la posibilidad de una busqueda avanzada por campos y
+hasta la posibilidad de buscar las personas que han realizado una reserva.
+7-. Al realizar una reserva se le muestra un numero, que corresponde al
+numero de reserva, de gran utilidad para la busqueda, modificacion o, 
+en su caso, eliminacion de reservas realizadas con anterioridad. 
+ 
+Muchas gracias por utilizar el programa de Telekoscorron 1.0.!
+
+
